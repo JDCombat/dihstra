@@ -1,0 +1,14 @@
+/home/jdcombat/dihstra/Dijkstra/bin/Debug/net9.0/Dijkstra
+/home/jdcombat/dihstra/Dijkstra/bin/Debug/net9.0/Dijkstra.deps.json
+/home/jdcombat/dihstra/Dijkstra/bin/Debug/net9.0/Dijkstra.runtimeconfig.json
+/home/jdcombat/dihstra/Dijkstra/bin/Debug/net9.0/Dijkstra.dll
+/home/jdcombat/dihstra/Dijkstra/bin/Debug/net9.0/Dijkstra.pdb
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/Dijkstra.AssemblyInfoInputs.cache
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/Dijkstra.AssemblyInfo.cs
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/Dijkstra.csproj.CoreCompileInputs.cache
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/Dijkstra.dll
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/refint/Dijkstra.dll
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/Dijkstra.pdb
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/Dijkstra.genruntimeconfig.cache
+/home/jdcombat/dihstra/Dijkstra/obj/Debug/net9.0/ref/Dijkstra.dll
